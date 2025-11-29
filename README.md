@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Arjun M B**  
-### Full Stack Developer | MERN | TypeScript | Cloud Enthusiast  
+### Full Stack Developer | MERN | TypeScript   
 
 Crafting scalable digital experiences with clean code & great UI.  
 </div>
@@ -30,14 +30,14 @@ Crafting scalable digital experiences with clean code & great UI.
 > Git, GitHub, Docker, Linux, AWS CI/CD
 
 **Core CS**
-> DSA, OOP, System Design Basics
+> DSA, OOP
 
 ---
 
 ## 🌟 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Arjunmb01/laptop-store">
+<a href="https://github.com/Arjunmb01/Infinity-Tech">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=laptop-store&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/Arjunmb01/weather-app">
