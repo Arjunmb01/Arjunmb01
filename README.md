@@ -1,33 +1,82 @@
-<div align="center"><!-- Animated Hero Section --><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,24,30&text=🚀%20Arjun%27s%20Developer%20Hub&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Innovator&descSize=20&descAlignY=60&stroke=00FF00"/><!-- Animated Badges --><div align="center"> <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff6b6b&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Arjunmb01" alt="Total Forks" /> <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=4ecdc4&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Arjunmb01" alt="Total Stars"/> <img src="https://img.shields.io/badge/dynamic/json?&label=Contributions&color=45b7d1&style=for-the-badge&query=%24.contributions&url=https://api.github-star-counter.workers.dev/user/Arjunmb01" alt="Contributions"/> <img src="https://komarev.com/ghpvc/?username=Arjunmb01&label=Profile%20Views&color=bb2acf&style=for-the-badge" alt="views" /> </div><!-- Animated Text --><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=45B7D1&center=true&vCenter=true&multiline=true&random=false&width=1500&height=120&lines=💻+Full-Stack+Developer+%7C+🚀+MERN+Stack+%7C+🎯+Problem+Solver;⚡+React+%7C+TypeScript+%7C+PostgreSQL+%7C+DSA+Expert;🔥+Building+Scalable+Solutions+%7C+✨+Clean+Code+Advocate" alt="Typing SVG" /> </div><!-- Animated About Section --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h2><table align="center"> <tr> <td width="50%"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/banner_header.png" width="100%"> </td> <td width="50%">
-🎯 Current Focus
-⚡ Advanced React Patterns & Performance
-
-🗄️ PostgreSQL Optimization & Scaling
-
-🎯 TypeScript Mastery
-
-🧠 Advanced DSA & System Design
-
-☁️ Cloud Architecture & DevOps
-
-🌟 Fun Facts
-📚 Continuous Learner - Always exploring new tech
-
-🎮 Game Development enthusiast in free time
-
-🎸 Music Producer & Code beats lover
-
-☕ Specialty Coffee connoisseur
-
-🏆 Competitive Programming participant
-
-</td> </tr> </table><!-- Animated Skills Section --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Tech Stack & Skills </h2>
-🚀 Core Technologies
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> <br><strong>React</strong> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /> <br><strong>TypeScript</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" /> <br><strong>PostgreSQL</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /> <br><strong>Node.js</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /> <br><strong>Express</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /> <br><strong>MongoDB</strong> </td> </tr> </table>
-💡 Additional Skills
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /> <br>Redis </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br>Docker </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /> <br>AWS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> </tr> </table>
-🧠 DSA & Problem Solving
 <div align="center">
-https://leetcard.jacoblin.cool/Arjunmb01?theme=dark&font=Karma&ext=contest
 
-<!-- You can add CodeForces later if you have an account --></div><!-- Animated Projects Section --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Featured Projects </h2><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; justify-items: center;"><!-- Project 1 - React TypeScript Project --><div style="position: relative; width: 100%;"> <a href="https://github.com/Arjunmb01/React-Typescript"> <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=React-Typescript&theme=radical&bg_color=0D1117&hide_border=true&title_color=4ECDC4&icon_color=45B7D1&show_owner=true" /> <div style="position: absolute; top: 10px; right: 10px; background: #4ECDC4; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;"> ⚡ React + TS </div> </a> </div><!-- Project 2 - Full Stack Project --><div style="position: relative; width: 100%;"> <a href="https://github.com/Arjunmb01/Full-Stack-Project"> <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=Full-Stack-Project&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF6B6B&icon_color=45B7D1&show_owner=true" /> <div style="position: absolute; top: 10px; right: 10px; background: #FF6B6B; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;"> 🚀 Full-Stack </div> </a> </div><!-- Project 3 - DSA Solutions --><div style="position: relative; width: 100%;"> <a href="https://github.com/Arjunmb01/DSA-Solutions"> <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=DSA-Solutions&theme=radical&bg_color=0D1117&hide_border=true&title_color=C792EA&icon_color=45B7D1&show_owner=true" /> <div style="position: absolute; top: 10px; right: 10px; background: #C792EA; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;"> 🧠 DSA </div> </a> </div><!-- Project 4 - Portfolio --><div style="position: relative; width: 100%;"> <a href="https://github.com/Arjunmb01/Portfolio"> <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=Portfolio&theme=radical&bg_color=0D1117&hide_border=true&title_color=45B7D1&icon_color=4ECDC4&show_owner=true" /> <div style="position: absolute; top: 10px; right: 10px; background: #45B7D1; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;"> 🎨 Portfolio </div> </a> </div></div><!-- Animated Stats Section --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Analytics </h2><div align="center"><!-- Trophy Section --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arjunmb01&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" align="middle" /> </p><!-- Stats Section --><div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;"><!-- Streak Stats --><div style="flex: 1; min-width: 300px;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunmb01&theme=radical&hide_border=true&background=0D1117&fire=FF6B6B&currStreakLabel=FF6B6B" alt="streaks" /> </div><!-- Main Stats --><div style="flex: 1; min-width: 300px;"> <img src="https://github-readme-stats.vercel.app/api?username=Arjunmb01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=45B7D1&icon_color=4ECDC4&text_color=FFFFFF" alt="stats" /> </div></div><!-- Language Stats --><div style="margin-top: 20px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunmb01&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=45B7D1&text_color=FFFFFF&langs_count=8" alt="languages" /> </div></div><!-- Snake Animation --><div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" /> </div><!-- Activity Graph --><div align="center"> [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunmb01&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph&radius=10&bg_color=0D1117&point=45B7D1&line=4ECDC4&color=FFFFFF&area=true&area_color=45B7D1)](https://github.com/ashutosh00710/github-readme-activity-graph) </div><!-- Connect Section --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Let's Connect & Collaborate!</h2><div align="center"><!-- Social Badges --><a href="https://linkedin.com/in/arjun-m-b01" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"> </a> <a href="mailto:arjunmb.work@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"> </a> <a href="https://arjunmb01.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"> </a> <a href="https://leetcode.com/u/arjunmb01/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"> </a> <a href="https://github.com/Arjunmb01"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"> </a></div><!-- Quote Section --><div align="center" style="margin: 20px 0;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" /> </div><!-- Footer --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=120&section=footer"/>
+# 👋 Hi, I'm **Arjun M B**  
+### Full Stack Developer | MERN | TypeScript | Cloud Enthusiast  
+
+Crafting scalable digital experiences with clean code & great UI.  
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎯 Learning **Advanced React Patterns & Cloud Architecture**
+- 🧩 Strong focus on **Problem Solving & DSA**
+- 🚀 Passionate about **Scalable Backend Systems**
+- ☁️ Exploring **AWS & DevOps automation**
+- 🤝 Seeking **Full-Stack Developer roles**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+> React.js, JavaScript (ES6+), TypeScript, Tailwind CSS
+
+**Backend**
+> Node.js, Express.js, PostgreSQL, MongoDB, REST APIs, Redis
+
+**Tools & Platforms**
+> Git, GitHub, Docker, Linux, AWS CI/CD
+
+**Core CS**
+> DSA, OOP, System Design Basics
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+<a href="https://github.com/Arjunmb01/laptop-store">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=laptop-store&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/Arjunmb01/weather-app">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=weather-app&theme=transparent&hide_border=true" />
+</a>
+</p>
+
+📌 More awesome work ↗️ Browse my repositories!
+
+---
+
+## 🧠 DSA & LeetCode Progress
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Arjunmb01?ext=activity&theme=light&border=0" width="100%" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunmb01&theme=transparent&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunmb01&show_icons=true&theme=transparent&hide_border=true" width="49%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/arjun-mb/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="mailto:arjunmb2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://portfolio-cyan-ten-95.vercel.app/"><img src="https://skillicons.dev/icons?i=webflow" width="40"/></a>
+<a href="https://github.com/Arjunmb01"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
+---
+
+<div align="center">
+Thanks for visiting! ⭐ Consider starring my repos to support my work!
+</div>
