@@ -1,82 +1,76 @@
-<div align="center">
-
-# 👋 Hi, I'm **Arjun M B**  
-### Full Stack Developer | MERN | TypeScript   
-
-Crafting scalable digital experiences with clean code & great UI.  
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎯 Learning **Advanced React Patterns & Cloud Architecture**
-- 🧩 Strong focus on **Problem Solving & DSA**
-- 🚀 Passionate about **Scalable Backend Systems**
-- ☁️ Exploring **AWS & DevOps automation**
-- 🤝 Seeking **Full-Stack Developer roles**
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-> React.js, JavaScript (ES6+), TypeScript, Tailwind CSS
-
-**Backend**
-> Node.js, Express.js, PostgreSQL, MongoDB, REST APIs, Redis
-
-**Tools & Platforms**
-> Git, GitHub, Docker, Linux, AWS CI/CD
-
-**Core CS**
-> DSA, OOP
-
----
-
-## 🌟 Featured Projects
+<h1 align="center">Hi, I'm Arjun M B 👋</h1>
+<h3 align="center">Full Stack Developer | MERN | Node.js | MongoDB</h3>
 
 <p align="center">
-<a href="https://github.com/Arjunmb01/Infinity-Tech">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=laptop-store&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/Arjunmb01/weather-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=weather-app&theme=transparent&hide_border=true" />
-</a>
+  I build secure, scalable, and production-ready web applications.<br/>
+  Strong in backend architecture, authentication, and real-world project development.
 </p>
-
-📌 More awesome work ↗️ Browse my repositories!
 
 ---
 
-## 🧠 DSA & LeetCode Progress
+## 🚀 What I Do
+- Build **end-to-end MERN applications**
+- Implement **JWT, Session & OAuth authentication**
+- Design **RESTful APIs & role-based systems**
+- Integrate **payments, image uploads & email services**
+- Focus on **clean code & scalable architecture**
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+`React` `Redux Toolkit` `EJS` `Tailwind CSS` `JavaScript` `TypeScript`
+
+**Backend**  
+`Node.js` `Express.js` `Django`
+
+**Database**  
+`MongoDB` `PostgreSQL` `SQL`
+
+**Auth & Security**  
+`JWT` `Passport.js` `Bcrypt` `Helmet`
+
+**Cloud & Tools**  
+`AWS (basic)` `Docker (basic)` `Cloudinary` `Razorpay` `Postman` `Git`
+
+---
+
+## 📌 Projects
+
+### 🟢 InfinityTech — Full-Stack E-commerce
+- User & Admin authentication
+- Product, order & payment management
+- Razorpay integration
+- Cloudinary image uploads
+
+🔗 https://github.com/Arjunmb01/Infinity-Tech
+
+---
+
+### 🟢 OLX Clone
+- Google authentication
+- Product listing & image uploads
+- Responsive UI
+
+🔗 https://github.com/Arjunmb01/OLX-clone
+
+---
+
+## 🧠 DSA Practice
+- Regular problem solving on LeetCode  
+🔗 https://leetcode.com/u/Arjun_M_B/
+
+---
+
+## 🌐 Connect With Me
+- 🌍 Portfolio: https://portfolio-cyan-ten-95.vercel.app/
+- 💻 GitHub: https://github.com/Arjunmb01
+- 🔗 LinkedIn: https://www.linkedin.com/in/arjun-mb/
+
+---
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Arjunmb01?ext=activity&theme=light&border=0" width="100%" />
+  <b>Open to Full Stack / MERN Developer roles</b><br/>
+  Building real products, not just demos.
 </p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunmb01&theme=transparent&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunmb01&show_icons=true&theme=transparent&hide_border=true" width="49%"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/arjun-mb/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="mailto:arjunmb2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-<a href="https://portfolio-cyan-ten-95.vercel.app/"><img src="https://skillicons.dev/icons?i=webflow" width="40"/></a>
-<a href="https://github.com/Arjunmb01"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
-
----
-
-<div align="center">
-Thanks for visiting! ⭐ Consider starring my repos to support my work!
-</div>
