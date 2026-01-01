@@ -87,15 +87,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arjunmb01&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunmb01&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunmb01&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjunmb01&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunmb01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunmb01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
