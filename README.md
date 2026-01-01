@@ -139,32 +139,23 @@
 
 ---
 
-## 📌 Projects
+## 🚀 Pinned Projects
 
-### 🟢 InfinityTech — Full-Stack E-commerce
-- User & Admin authentication
-- Product, order & payment management
-- Razorpay integration
-- Cloudinary image uploads
+<p align="center">
+  <a href="https://github.com/Arjunmb01/InfinityTech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=InfinityTech&hide_border=true" />
+  </a>
+  <a href="https://github.com/Arjunmb01/TaskPulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=TaskPulse&hide_border=true" />
+  </a>
+</p>
 
-🔗 https://github.com/Arjunmb01/Infinity-Tech
+<p align="center">
+  <a href="https://github.com/Arjunmb01/OLX-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arjunmb01&repo=OLX-clone&hide_border=true" />
+  </a>
+</p>
 
----
-
-### 🟢 OLX Clone
-- Google authentication
-- Product listing & image uploads
-- Responsive UI
-
-🔗 https://github.com/Arjunmb01/OLX-clone
-
----
-
-## 🧠 DSA Practice
-- Regular problem solving on LeetCode  
-🔗 https://leetcode.com/u/Arjun_M_B/
-
----
 
 ## 🌐 Connect With Me
 - 🌍 Portfolio: https://portfolio-cyan-ten-95.vercel.app/
